@@ -6,6 +6,7 @@ git add -A (adds all the changes and new files to the local git)
 git commit -m "message of commit" (commits changes with a message to the local git)
 git push origin main (pushes changes to online git)
 git pull / git pull origin main (gets the updated code from online git *main is branch or could be any branch)
+git push origin main --force (add --force if you want to bypass github - warning)
 
 git branch -a (displays all branches)
 git branch (display current branch)

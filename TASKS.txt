@@ -1,8 +1,8 @@
 
 git clone "url here"  (used to import repository from github)
 
-git add - A (adds all the changes and new files to the local git)
-git commit -m (commits changes to the local git)
+git add -A (adds all the changes and new files to the local git)
+git commit -m "message of commit" (commits changes with a message to the local git)
 git push origin main (pushes changes to online git)
 
 git branch -a (displays all branches)

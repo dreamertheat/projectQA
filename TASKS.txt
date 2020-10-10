@@ -4,10 +4,17 @@ git clone "url here"  (used to import repository from github)
 git add -A (adds all the changes and new files to the local git)
 git commit -m "message of commit" (commits changes with a message to the local git)
 git push origin main (pushes changes to online git)
+git pull / git pull origin main (gets the updated code from online git *main is branch or could be any branch)
 
 git branch -a (displays all branches)
 git branch (display current branch)
 git branch "name" (create branch with name)
+
+git log -5 (display last 5 commits")
+
+git reset --hard "hash"
+
+
 
 git checkout "name of branch" (switches to another branch)
 

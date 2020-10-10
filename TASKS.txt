@@ -10,12 +10,15 @@ git branch -a (displays all branches)
 git branch (display current branch)
 git branch "name" (create branch with name)
 
+git checkout "name of branch" (switches to another branch)
+
+
+
 git log -5 (display last 5 commits")
 
 git reset --hard "hash"
 
 
 
-git checkout "name of branch" (switches to another branch)
 
 The quick brown fox jumps over the lazy monkey who plays magic chess

@@ -22,3 +22,6 @@ git reset --hard "hash"
 
 
 The quick brown fox jumps over the lazy monkey who plays magic chess
+
+
+PANG DEVELOP LANG TO

@@ -1,4 +1,4 @@
-
+*fixed from vandalism
 git clone "url here"  (used to import repository from github)
 
 git add -A (adds all the changes and new files to the local git)

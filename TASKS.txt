@@ -1,4 +1,5 @@
 
+
 git clone "url here"  (used to import repository from github)
 
 git add -A (adds all the changes and new files to the local git)
@@ -12,13 +13,13 @@ git branch "name" (create branch with name)
 
 git checkout "name of branch" (switches to another branch)
 
-
+git fangitnamimang - to call cats
 
 git log -5 (display last 5 commits")
 
 git reset --hard "hash"
 
-
+git monkeys -to summon monkeys
 
 
 The quick brown fox jumps over the lazy monkey who plays magic chess

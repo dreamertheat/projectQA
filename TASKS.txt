@@ -25,5 +25,6 @@ git monkeys -to summon monkeys
 
 The quick brown fox jumps over the lazy monkey who plays magic chess
 
+The horsey and the monkey plays ungguyan
 
 PANG DEVELOP LANG TO
